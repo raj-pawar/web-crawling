@@ -1,2 +1,2 @@
 # web-crawling
-Various web crawling scripts
+Various web crawling scripts use selenium and beautiful soup
